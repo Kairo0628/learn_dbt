@@ -3,7 +3,7 @@ name: learn_dbt
 profile: learn_dbt
 
 seed-paths: ["seeds"]
-model-paths: ["models"]
+model-paths: ["models", "second_models"]
 macro-paths: ["macros"]
 clean-targets:
   - "target"
@@ -22,3 +22,5 @@ models:
       +materialized: view
     marts:
       +materialized: table
+    second_staging:
+      +materialized: view
