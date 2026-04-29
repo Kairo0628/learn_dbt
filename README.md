@@ -7,3 +7,6 @@
 
 **2026-04-20**
 - [dbt models](https://www.notion.so/3-dbt-models-348103c07633808e90e3e8b0b75c1985?source=copy_link)
+
+**2026-04-29**
+- [Materializations](https://www.notion.so/4-Materializations-350103c0763380ecaf45df4a0abf6138?source=copy_link)
