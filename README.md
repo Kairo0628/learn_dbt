@@ -10,3 +10,6 @@
 
 **2026-04-29**
 - [Materializations](https://www.notion.so/4-Materializations-350103c0763380ecaf45df4a0abf6138?source=copy_link)
+
+**2026-05-03**
+- [Incremental Models](https://www.notion.so/5-Incremental-Models-350103c0763380ed8c95edea859999f3?source=copy_link)
