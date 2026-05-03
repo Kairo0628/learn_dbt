@@ -1,0 +1,4 @@
+models:
+  - name: table04
+    config:
+      materialized: view
